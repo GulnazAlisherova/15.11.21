@@ -1,0 +1,26 @@
+nav {
+  background-color: tomato;
+  min-height: 60px;
+}
+header{
+  background-color: rgb(250, 228, 199);
+  min-height: 150px;
+}
+main {
+ background-color: burlywood;
+ min-height: 350px;
+}
+footer{
+background-color: cornflowerblue;
+  min-height: 80px;
+}
+.placeholder {
+  color: white;
+  font-weight: bold;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 1.3rem;
+display: flex;
+align-content: center;
+justify-content: center;
+text-transform: uppercase;
+}
