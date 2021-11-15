@@ -1,3 +1,14 @@
+
+.placeholder {
+  color: white;
+  font-weight: bold;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 1.3rem;
+display: flex;
+align-content: center;
+justify-content: center;
+text-transform: uppercase;
+}
 nav {
   background-color: tomato;
   min-height: 60px;
@@ -12,19 +23,12 @@ main {
 }
 aside {
   background-color: darkgreen;
-  
+  min-height: 350px;
 }
 footer{
 background-color: cornflowerblue;
   min-height: 80px;
 }
-.placeholder {
-  color: white;
-  font-weight: bold;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-font-size: 1.3rem;
-display: flex;
-align-content: center;
-justify-content: center;
-text-transform: uppercase;
+.row {
+  display: flex;
 }
