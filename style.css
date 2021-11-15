@@ -32,3 +32,6 @@ background-color: cornflowerblue;
 .row {
   display: flex;
 }
+aside {
+  width: 25%;
+}
