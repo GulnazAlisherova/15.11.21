@@ -18,7 +18,7 @@ header{
   min-height: 150px;
 }
 main {
- background-color: burlywood;
+ background-color: chocolate;
  min-height: 350px;
 }
 aside {
@@ -32,9 +32,9 @@ background-color: cornflowerblue;
 .row {
   display: flex;
 }
+.column {
+  flex: 1 0 0;
+}
 aside {
   width: 25%;
-}
-main {
-  width: 75%;
 }
