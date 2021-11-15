@@ -10,6 +10,10 @@ main {
  background-color: burlywood;
  min-height: 350px;
 }
+aside {
+  background-color: darkgreen;
+  
+}
 footer{
 background-color: cornflowerblue;
   min-height: 80px;
